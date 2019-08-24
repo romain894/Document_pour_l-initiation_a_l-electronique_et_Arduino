@@ -1,2 +1,6 @@
-# Document_pour_l-initiation_a_l-electronique_et_Arduino
-Document PDF avec des exemples de montages électroniques et de codes Arduino avec quelques annexes
+# Document pour l'initiation à l'électronique et Arduino
+Vous trouverez un document PDF avec des exemples de montages électroniques, de codes Arduino et quelques annexes.
+
+La bibliothèque Motor, mentionnée dans le document est disponible dans le dossier motor
+
+Romain THOMAS 2019
